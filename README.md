@@ -5,13 +5,13 @@
 ### AI Engineer | Computer Engineering Graduate
 
 <p align="left">
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="www.linkedin.com/in/minh-dao-a56997229">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="dvminh1347@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -63,13 +63,13 @@ Raspberry Pi · ESP32 · ROS 2
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="www.linkedin.com/in/minh-dao-a56997229">
     <img src="https://img.shields.io/badge/LinkedIn-Minh%20Dao-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="dvminh1347@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-Website-181717?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
