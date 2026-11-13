@@ -12,4 +12,3 @@
   <a href="https://tenban.dev">Portfolio</a> · 
   <a href="mailto:ban@email.com">Email</a> 
 </p>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%3E+hello+world.+I'm+Minh)](https://git.io/typing-svg)
