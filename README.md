@@ -1,14 +1,79 @@
-<p align="center">
-  <img src="./banner.svg" alt="Đào Văn Minh - AI Engineer" width="100%" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&vCenter=true&width=500&lines=%3E+hello+world.)](https://git.io/typing-svg)
+
+# Hi, I'm Minh Dao Van 👋
+
+### AI Engineer | Computer Engineering Graduate
+
+<p align="left">
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Đang%20nhận-freelance-2ea043?style=flat-square" alt="Đang nhận freelance" />
-  <img src="https://img.shields.io/badge/Kinh%20nghiệm-1%2B%20năm-0969da?style=flat-square" alt="1+ năm kinh nghiệm" />
-  <img src="https://img.shields.io/badge/Ngôn%20ngữ-Việt%20·%20English-8250df?style=flat-square" alt="Việt, English" />
+---
+
+## 👨‍💻 About Me
+
+I enjoy building AI-powered systems, working with data pipelines, and integrating intelligent models into real-world applications. My experience includes Computer Vision, OCR, LLM/RAG systems, and Edge AI.
+
+- 🔭 Interested in **AI Engineering, Computer Vision, and LLM Applications**
+- 💻 Programming primarily with **Python and C/C++**
+- 🧠 Exploring **RAG, Deep Learning, OCR, and AI deployment**
+- 🌱 Continuously learning and building practical projects
+- 📍 Based in **Da Nang, Vietnam**
+
+---
+
+## 🛠️ Technical Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,opencv,sklearn,fastapi,django,mysql,git,github,linux,vscode&perline=7" />
 </p>
-<p align="center"> 
-  <a href="www.linkedin.com/in/minh-dao-a56997229">LinkedIn</a> · 
-  <a href="https://tenban.dev">Portfolio</a> · 
-  <a href="mailto:ban@email.com">Email</a> 
+
+**AI & Machine Learning**
+
+Computer Vision · Deep Learning · OCR · LLM · RAG
+
+**Tools & Technologies**
+
+Hugging Face · Transformers · YOLO · Qdrant · ChromaDB · Ollama
+
+**Embedded & Edge AI**
+
+Raspberry Pi · ESP32 · ROS 2
+
+---
+
+## 🎯 Focus On
+
+- Advanced Retrieval-Augmented Generation (RAG)
+- Computer Vision & Document AI
+- Transformer-based Architectures
+- AI Model Optimization & Deployment
+- Edge AI & Embedded Systems
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Minh%20Dao-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-Website-181717?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
 </p>
+
+---
+
+⭐ Thanks for visiting my profile!
