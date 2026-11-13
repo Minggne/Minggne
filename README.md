@@ -8,7 +8,7 @@
   <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/minh-dao-a56997229">
+  <a href="https://www.linkedin.com/in/minh-dao-a56997229/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="dvminh1347@gmail.com">
@@ -63,7 +63,7 @@ Raspberry Pi · ESP32 · ROS 2
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/minh-dao-a56997229">
+  <a href="https://www.linkedin.com/in/minh-dao-a56997229/">
     <img src="https://img.shields.io/badge/LinkedIn-Minh%20Dao-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="dvminh1347@gmail.com">
