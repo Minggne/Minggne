@@ -2,7 +2,7 @@
 
 # Hi, I'm Minh Dao Van 👋
 
-### AI Engineer | Computer Engineering
+### AI Engineer | Computer Engineer
 
 <p align="left">
   <a href="#">
